@@ -1,0 +1,1 @@
+# Projeto-final-da-disciplina-de-Solu-es-em-Minera-o-de-Dados
