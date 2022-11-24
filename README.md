@@ -81,7 +81,7 @@ análise.
 ## Tecnologias utilizadas
 
 Python 3. *Bibliotecas:*
-pandas, numpy, re, matplotlib.pylab, seaborn, scipy, statistics, joblib, sklearn (preprocessing, sklearn.model_selection, sklearn.preprocessing, sklearn.linear_model import, sklearn.metrics), joblib, sys, mlxtend.feature_selection, neupy
+pandas, numpy, re, matplotlib.pylab, seaborn, scipy, statistics, joblib, sklearn (preprocessing, model_selection, preprocessing, linear_model import, metrics), joblib, sys, mlxtend.feature_selection, neupy
 
 ## Pessoas desenvolvedoras
 
